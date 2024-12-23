@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Spaceshark! <br> [![](https://visitcount.itsvg.in/api?id=spaceshark123&icon=0&color=3)](https://visitcount.itsvg.in)
 
 🔭 Undergraduate Student and Aspiring AI/ML Engineer<br>
-🌱 I’m currently learning about information theory and statistics!<br>
+🌱 I’m currently learning Go and backend development! <br>
 💬 Ask me about generative AI or video game development<br>
 ⚡ Fun fact: I coded in [Scratch](https://scratch.mit.edu) for 2 years before using another language<br>
 
