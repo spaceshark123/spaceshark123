@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Spaceshark! <br> [![](https://visitcount.itsvg.in/api?id=spaceshark123&icon=0&color=3)](https://visitcount.itsvg.in)
 
 🔭 Undergraduate Student and Aspiring SWE and AI/ML Engineer<br>
-🌱 I’m currently learning Go, Node JS, Express JS, RESTful APIs, and other aspects of backend development! <br>
+🌱 I’m currently learning about Pytorch, LLM parameter-efficient fine tuning (PEFT), model distillation, and NLP pipelines.<br>
 💬 Ask me about generative AI or video game development<br>
 ⚡ Fun fact: I coded in [Scratch](https://scratch.mit.edu) for 2 years before using another language<br>
 
@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
