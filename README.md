@@ -44,8 +44,10 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-git-master-spaceshark123s-projects.vercel.app/api/top-langs/?username=spaceshark123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-contributor-stats.vercel.app/api?username=spaceshark123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Langs](https://github-readme-stats-git-master-spaceshark123s-projects.vercel.app/api/top-langs/?username=spaceshark123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![Contributions](https://github-contributor-stats.vercel.app/api?username=spaceshark123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=spaceshark123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
