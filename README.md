@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Spaceshark! <br> [![](https://visitcount.itsvg.in/api?id=spaceshark123&icon=0&color=3)](https://visitcount.itsvg.in)
 
-🔭 Undergraduate Student and Aspiring SWE and AI/ML Engineer<br>
+🔭 Undergraduate Student @ GT and Aspiring SWE and ML Engineer<br>
 🌱 I’m currently learning about Pytorch, LLM parameter-efficient fine tuning (PEFT), model distillation, and NLP pipelines.<br>
 💬 Ask me about generative AI or video game development<br>
 ⚡ Fun fact: I coded in [Scratch](https://scratch.mit.edu) for 2 years before using another language<br>
@@ -38,8 +38,10 @@
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
